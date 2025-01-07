@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+developer;AI+developer;Always+learning.)](https://git.io/typing-svg)
+
 ## 🚀 About Me
 
 A young and passionate developer interested in making complex problems easier to solve. Love all things AI.
