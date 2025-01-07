@@ -19,7 +19,7 @@ Eager to learn new technologies and tackle challenging problems.
 
 ## 📊 Language Stats
 
-![NexWasTaken's Top Language Stats](https://github-readme-stats-ten-rho-76.vercel.app/api/top-langs?username=NexWasTaken&layout=donut&theme=nord&langs_count=8)
+![NexWasTaken's GitHub Stats](https://github-readme-stats-ten-rho-76.vercel.app/api?username=NexWasTaken&layout=donut&theme=nord&langs_count=8) ![NexWasTaken's Top Language Stats](https://github-readme-stats-ten-rho-76.vercel.app/api/top-langs?username=NexWasTaken&layout=donut&theme=nord&langs_count=8)
 
 <!--
 **NexWasTaken/NexWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
