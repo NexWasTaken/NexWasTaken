@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+
+## About Me
+
+A young and passionate developer interested in making complex problems easier to solve!
+I've been working in computer science since a young age and have developed several successful applications over the years.
+Eager to learn new technologies and tackle challenging problems.
 
 ## 🛠️ Skills & Technologies
 
@@ -11,6 +17,9 @@
 | **AI Tools**     | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![StabilityAI](https://img.shields.io/badge/-StabilityAI-000000?style=flat) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD500?style=flat&logo=huggingface&logoColor=black) ![Midjourney](https://img.shields.io/badge/-Midjourney-000000?style=flat) |
 | **Miscellaneous**| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white) ![DiscordJS](https://img.shields.io/badge/-DiscordJS-5865F2?style=flat&logo=discord&logoColor=white) ![DiscordPY](https://img.shields.io/badge/-DiscordPY-5865F2?style=flat&logo=discord&logoColor=white) |
 
+## Language Stats
+
+https://github-readme-stats-ten-rho-76.vercel.app/api/top-langs?username=NexWasTaken&layout=donut&theme=nord&langs_count=8
 
 <!--
 **NexWasTaken/NexWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
