@@ -20,8 +20,8 @@ Eager to learn new technologies and tackle challenging problems!
 | **Miscellaneous**| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white) ![DiscordJS](https://img.shields.io/badge/-DiscordJS-5865F2?style=flat&logo=discord&logoColor=white) ![DiscordPY](https://img.shields.io/badge/-DiscordPY-5865F2?style=flat&logo=discord&logoColor=white) |
 
 ## 📊 GitHub Stats
-<a> <img height=200 align="center" src="https://github-readme-stats-ten-rho-76.vercel.app/api?username=NexWasTaken&theme=nord" /> </a>
-<a> <img height=200 align="center" src="https://github-readme-stats-ten-rho-76.vercel.app/api/top-langs?username=NexWasTaken&layout=compact&theme=nord&langs_count=8&card_width=320" /> </a>
+<a> <img height=200 align="center" src="https://github-readme-stats-ten-rho-76.vercel.app/api?username=NexWasTaken&theme=nord&hide_border=true" /> </a>
+<a> <img height=200 align="center" src="https://github-readme-stats-ten-rho-76.vercel.app/api/top-langs?username=NexWasTaken&layout=compact&theme=nord&langs_count=8&card_width=320&hide_border=true" /> </a>
 <!--
 **NexWasTaken/NexWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
