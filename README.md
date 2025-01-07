@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&center=true&width=435&lines=Full-stack+developer.;AI+developer.;Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&vCenter=true&width=500&lines=Full-stack+developer.;AI+developer.;Always+learning.)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
