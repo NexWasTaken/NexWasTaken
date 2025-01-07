@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-A young and passionate developer interested in making complex problems easier to solve!
+A young and passionate developer interested in making complex problems easier to solve. Love all things AI.
 I've been working in computer science since a young age and have developed several successful applications over the years.
-Eager to learn new technologies and tackle challenging problems.
+Eager to learn new technologies and tackle challenging problems!
 
 ## 🛠️ Skills & Technologies
 
