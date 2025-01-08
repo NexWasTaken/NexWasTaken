@@ -24,7 +24,7 @@
 <a> <img height=200 align="center" src="https://github-readme-stats-ten-rho-76.vercel.app/api?username=NexWasTaken&theme=nord&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true&hide=contribs" /> </a> <a> <img height=200 align="center" src="https://github-readme-stats-ten-rho-76.vercel.app/api/top-langs?username=NexWasTaken&layout=compact&theme=nord&langs_count=8&card_width=320&hide_border=true" /> </a>
 
 > [!NOTE]
-> Most Used Languages does not indicate my skill level; it's a GitHub metric to determine which languages I have written the most code on GitHub with. It also doesn't count private repos I had contributed to, but can no longer access now.
+> Most Used Languages does not indicate my skill level; it's a GitHub metric to determine which languages I have written the most code with on GitHub. It also doesn't count private repos I had contributed to, but can no longer access now.
 <!--
 **NexWasTaken/NexWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
