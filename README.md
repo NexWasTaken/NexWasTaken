@@ -25,6 +25,11 @@
 
 > [!NOTE]
 > Most Used Languages does not indicate my skill level; it's a GitHub metric to determine which languages I have written the most code with on GitHub. It also doesn't count private repos I had contributed to, but can no longer access now.
+
+## Visitors
+
+![NexWasTaken's Visitor Count](https://count.getloli.com/@NexWasTaken?name=NexWasTaken&theme=booru-koe&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+<sup>Tracking since 9/1/24.</sup>	
 <!--
 **NexWasTaken/NexWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
