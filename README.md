@@ -28,7 +28,9 @@
 
 ## 📍 Visitors
 
-![NexWasTaken's Visitor Count](https://count.getloli.com/@NexWasTaken?name=NexWasTaken&theme=booru-koe&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto) <br> <sup>Tracking since 9/1/24.</sup>	
+![NexWasTaken's Visitor Count](https://count.getloli.com/@NexWasTaken?name=NexWasTaken&theme=booru-koe&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+
 <!--
 **NexWasTaken/NexWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
