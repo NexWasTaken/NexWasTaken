@@ -22,7 +22,7 @@
 
 ## LeetCode
 
-![LeetCode Stats]((https://leetcard.jacoblin.cool/NexWasTaken?theme=nord&font=Lexend&ext=heatmap)]
+![LeetCode Stats](https://leetcard.jacoblin.cool/NexWasTaken?theme=nord&font=Lexend&ext=heatmap)
 
 ## 📊 GitHub Stats
 <a> <img height=200 align="center" src="https://github-readme-stats-ten-rho-76.vercel.app/api?username=NexWasTaken&theme=nord&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true&hide=contribs" /> </a> <a> <img height=200 align="center" src="https://github-readme-stats-ten-rho-76.vercel.app/api/top-langs?username=NexWasTaken&layout=compact&theme=nord&langs_count=8&card_width=320&hide_border=true" /> </a>
