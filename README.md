@@ -20,6 +20,10 @@
 | **AI Tools**     | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![StabilityAI](https://img.shields.io/badge/-StabilityAI-000000?style=flat) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD500?style=flat&logo=huggingface&logoColor=black) ![Midjourney](https://img.shields.io/badge/-Midjourney-000000?style=flat) |
 | **Miscellaneous**| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white) ![DiscordJS](https://img.shields.io/badge/-DiscordJS-5865F2?style=flat&logo=discord&logoColor=white) ![DiscordPY](https://img.shields.io/badge/-DiscordPY-5865F2?style=flat&logo=discord&logoColor=white) |
 
+## LeetCode
+
+![LeetCode Stats]((https://leetcard.jacoblin.cool/NexWasTaken?theme=nord&font=Lexend&ext=heatmap)]
+
 ## 📊 GitHub Stats
 <a> <img height=200 align="center" src="https://github-readme-stats-ten-rho-76.vercel.app/api?username=NexWasTaken&theme=nord&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true&hide=contribs" /> </a> <a> <img height=200 align="center" src="https://github-readme-stats-ten-rho-76.vercel.app/api/top-langs?username=NexWasTaken&layout=compact&theme=nord&langs_count=8&card_width=320&hide_border=true" /> </a>
 
